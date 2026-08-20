@@ -25,7 +25,7 @@ A simple Python program that collects personal information and displays the ente
 
 ## Video
 
-[Add the project demonstration video link here.](https://github.com/SP3005/Python-Projects/blob/main/P-1%20Fundamental%20Booster/Project%20Demonstration.mp4)
+[project demonstration video link here.](https://github.com/SP3005/Python-Projects/blob/main/P-1%20Fundamental%20Booster/Project%20Demonstration.mp4)
 
 ## Author
 
