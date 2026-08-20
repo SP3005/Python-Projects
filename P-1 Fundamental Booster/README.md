@@ -21,7 +21,7 @@ A simple Python program that collects personal information and displays the ente
 
 ## Output
 
-![Output](images/output.png)
+![Output](https://github.com/SP3005/Python-Projects/blob/main/P-1%20Fundamental%20Booster/Output/Output.png)
 
 ## Video
 
