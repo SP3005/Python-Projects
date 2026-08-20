@@ -58,7 +58,7 @@ output images here:![Output](https://github.com/SP3005/Python-Projects/tree/main
 
 The video demonstrates the Pattern Generator, Number Range Analyzer, Even/Odd checking, and sum calculation.
 
-**Video Link:** 
+**![Video Link](https://github.com/SP3005/Python-Projects/blob/main/P-2%20Logic%20Box/Project%20Demonstration.mp4)** 
 
 ## Original Work
 
