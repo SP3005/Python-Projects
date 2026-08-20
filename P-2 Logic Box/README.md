@@ -50,7 +50,7 @@ The program:
 
 ## Output Screenshots
 
-output images here:
+output images here:![Output](https://github.com/SP3005/Python-Projects/tree/main/P-2%20Logic%20Box/Output)
 
 
 
