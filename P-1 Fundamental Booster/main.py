@@ -1,5 +1,3 @@
-from datetime import datetime
-
 print("Welcome to the Innteractive Personal Data Collector!")
 
 name = input("Please enter your name = ")
@@ -16,9 +14,11 @@ print(f"Age: {age}(Type: {type(age)}, Memory Address: {id(age)})")
 print(f"Height: {height}(Type: {type(height)}, Memory Address: {id(height)})")
 print(f"Favorite Number: {favorite_namber}(Type: {type(favorite_namber)}, Memory Address: {id(favorite_namber)})\n")
 
-current_year = datetime.now().year
+current_year = 2026
 birth_year = current_year - age
+
 print(f"Your birth year is approximately = {birth_year}"
       f"(based on your age of {age})")
+
 print()
 print("Thank you for using the Personal Data Collector. Goodbye!")
