@@ -555,7 +555,7 @@ Thank you for using the Student Data Organizer!
 
 ▶️ Watch the Complete Project
 
-<a href="assets/Project%20Demonstration%285%29.mp4">
+<a href="assets/Project%20Demonstration.mp4">
 
 <strong>▶️ OPEN PROJECT DEMONSTRATION VIDEO</strong>
 

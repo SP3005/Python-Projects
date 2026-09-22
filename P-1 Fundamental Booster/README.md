@@ -144,8 +144,8 @@ Thank you for using the Personal Data Collector. Goodbye!
 
 🖼️ Console Output Screenshot
 
-<a href="assets/Output%281%29.png">
-  <img src="assets/Output%281%29.png" alt="Project Output" width="95%">
+<a href="assets/Output.png">
+  <img src="assets/Output.png" alt="Project Output" width="95%">
 </a>
 
 <br>
@@ -160,13 +160,9 @@ Thank you for using the Personal Data Collector. Goodbye!
 
 ▶️ Watch The Project In Action
 
-<a href="assets/Project%20Demonstration%283%29.mp4">
-  <img src="assets/Output%281%29.png" alt="Project Demonstration" width="85%">
-</a>
+**▶️ [Open Project Demonstration Video](assets/Project%20Demonstration.mp4)**
 
-<br><br>
-
-▶️ Open Project Demonstration Video
+<br>
 
 </div>
 

@@ -429,7 +429,7 @@ It also checks whether the start of a number range is greater than the end and d
 🔺 Pattern Output
 
 <a href="assets/Output-1.png">
-<img src="assets/Output-1.png" alt="Pattern Generator Output" width="100%">
+<img src="assets/Output-%201.png" alt="Pattern Generator Output" width="100%">
 </a>
 
 🔍 Open Full Image
@@ -480,7 +480,7 @@ It also checks whether the start of a number range is greater than the end and d
 
 ▶️ Watch the Complete Program Demonstration
 
-<a href="assets/Project%20Demonstration%284%29.mp4">
+<a href="assets/Project%20Demonstration.mp4">
 
 <strong>▶️ OPEN PROJECT DEMONSTRATION VIDEO</strong>
 
