@@ -563,64 +563,143 @@ The statistics function returns separate tuples for the 1D and 2D datasets.
 
 ---
 
-# 🖼️ Output Gallery
+## 📸 Output Gallery
 
 <div align="center">
 
-## 1️⃣ Input Data
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img src="assets/Output1.png" width="90%" alt="Input Data">
+📥 **Input Data**
 
-<br><br>
+<a href="assets/Output1.png">
+<img src="assets/Output1.png" alt="Input Data Output" width="100%">
+</a>
 
-## 2️⃣ Display Both Arrays
+🔍 View Full Image
 
-<img src="assets/Output2.png" width="90%" alt="Display Arrays">
+</td>
+<td width="50%" valign="top" align="center">
 
-<br><br>
+📊 **Display Both Arrays**
 
-## 3️⃣ Data Summary
+<a href="assets/Output2.png">
+<img src="assets/Output2.png" alt="Display Both Arrays Output" width="100%">
+</a>
 
-<img src="assets/Output3.png" width="90%" alt="Data Summary">
+🔍 View Full Image
 
-<br><br>
+</td>
+</tr>
 
-## 4️⃣ Factorial
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img src="assets/Output4.png" width="90%" alt="Factorial">
+📋 **Data Summary**
 
-<br><br>
+<a href="assets/Output3.png">
+<img src="assets/Output3.png" alt="Data Summary Output" width="100%">
+</a>
 
-## 5️⃣ Filter Data
+🔍 View Full Image
 
-<img src="assets/Output5.png" width="90%" alt="Filter Data">
+</td>
+<td width="50%" valign="top" align="center">
 
-<br><br>
+🧮 **Factorial**
 
-## 6️⃣ Sort Data
+<a href="assets/Output4.png">
+<img src="assets/Output4.png" alt="Factorial Output" width="100%">
+</a>
 
-<img src="assets/Output6.png" width="90%" alt="Sort Data">
+🔍 View Full Image
 
-<br><br>
+</td>
+</tr>
 
-## 7️⃣ Dataset Statistics
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img src="assets/Output7.png" width="90%" alt="Dataset Statistics">
+🔎 **Filter Data**
 
-<br><br>
+<a href="assets/Output5.png">
+<img src="assets/Output5.png" alt="Filter Data Output" width="100%">
+</a>
 
-## 8️⃣ Function Documentation
+🔍 View Full Image
 
-<img src="assets/Output8.png" width="90%" alt="Function Documentation">
+</td>
+<td width="50%" valign="top" align="center">
 
-<br><br>
+⬆️ **Ascending Sort**
 
-## 9️⃣ Exit
+<a href="assets/Output6.1.png">
+<img src="assets/Output6.1.png" alt="Ascending Sort Output" width="100%">
+</a>
 
-<img src="assets/Output9.png" width="90%" alt="Exit">
+🔍 View Full Image
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+⬇️ **Descending Sort**
+
+<a href="assets/Output6.2.png">
+<img src="assets/Output6.2.png" alt="Descending Sort Output" width="100%">
+</a>
+
+🔍 View Full Image
+
+</td>
+<td width="50%" valign="top" align="center">
+
+📈 **Dataset Statistics**
+
+<a href="assets/Output7.png">
+<img src="assets/Output7.png" alt="Dataset Statistics Output" width="100%">
+</a>
+
+🔍 View Full Image
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+📖 **Show __doc__**
+
+<a href="assets/Output8.png">
+<img src="assets/Output8.png" alt="Show Doc Output" width="100%">
+</a>
+
+🔍 View Full Image
+
+</td>
+<td width="50%" valign="top" align="center">
+
+
+
+🚪 **Program Exit**
+
+<a href="assets/Output9.png">
+<img src="assets/Output9.png" alt="Program Exit Output" width="100%">
+</a>
+
+🔍 View Full Image
+
+</td>
+<td width="50%" valign="top" align="center">
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 # 🎥 Project Demonstration
