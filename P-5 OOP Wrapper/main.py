@@ -35,6 +35,9 @@ class Employee(Person):
     def set_salary(self,salary):
         self.__salary = salary
 
+    def __del__(self):
+        print("Employee object destroyed.")
+
     def display(self):
         print("\n+----- Employee Details -----+")
         print("Name:",self.name)

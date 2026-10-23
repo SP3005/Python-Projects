@@ -1,0 +1,119 @@
+Book ID,Title,Author,Genre,Price,Quantity
+1,Atomic Habits,James Clear,Self-Help,661.54,1
+2,The Alchemist,Paulo Coelho,Fiction,743.24,31
+3,Ikigai,Hector Garcia,Finance,328.57,13
+4,Rich Dad Poor Dad,Robert Kiyosaki,Technology,691.36,69
+5,Deep Work,Cal Newport,Biography,219.55,54
+6,The Psychology of Money,Morgan Housel,Science,175.43,11
+7,Wings of Fire,A. P. J. Abdul Kalam,Self-Help,324.91,64
+8,Sapiens,Yuval Noah Harari,Fiction,631.61,71
+10,The Power of Habit,Charles Duhigg,Technology,485.62,57
+11,Clean Code,Robert C. Martin,Biography,621.41,0
+12,Python Crash Course,Eric Matthes,Science,757.05,20
+13,The Pragmatic Programmer,Andrew Hunt,Self-Help,708.51,43
+14,The Hobbit,J. R. R. Tolkien,Fiction,372.3,27
+15,1984,George Orwell,Finance,915.77,43
+16,Pride and Prejudice,Jane Austen,Technology,231.77,48
+17,Dune,Frank Herbert,Biography,227.37,44
+18,The Silent Patient,Alex Michaelides,Science,632.98,20
+19,The Book Thief,Markus Zusak,Self-Help,733.79,68
+20,Educated,Unknown,Fiction,249.86,48
+21,Atomic Habits - Edition 2,James Clear,Fiction,213.04,37
+22,The Alchemist - Edition 2,Paulo Coelho,Finance,813.52,79
+23,Ikigai - Edition 2,Hector Garcia,Technology,858.36,46
+24,Rich Dad Poor Dad - Edition 2,Robert Kiyosaki,Biography,611.88,8
+25,Deep Work - Edition 2,Cal Newport,Science,186.66,29
+26,The Psychology of Money - Edition 2,Morgan Housel,Self-Help,768.45,10
+27,Wings of Fire - Edition 2,A. P. J. Abdul Kalam,Fiction,834.25,12
+28,Sapiens - Edition 2,Yuval Noah Harari,Finance,454.1,58
+29,Think and Grow Rich - Edition 2,Napoleon Hill,Technology,658.55,46
+30,The Power of Habit - Edition 2,Charles Duhigg,Biography,280.12,45
+31,Clean Code - Edition 2,Robert C. Martin,Science,317.61,34
+32,Python Crash Course - Edition 2,Eric Matthes,Self-Help,711.46,9
+33,The Pragmatic Programmer - Edition 2,Andrew Hunt,Fiction,637.3,21
+34,The Hobbit - Edition 2,J. R. R. Tolkien,Finance,577.31,31
+35,1984 - Edition 2,George Orwell,Technology,280.72,48
+36,Pride and Prejudice - Edition 2,Jane Austen,Biography,365.96,71
+37,Dune - Edition 2,Frank Herbert,Science,325.69,41
+39,The Book Thief - Edition 2,Markus Zusak,Fiction,333.24,4
+40,Educated - Edition 2,Tara Westover,Finance,794.04,51
+41,Atomic Habits - Edition 3,James Clear,Finance,364.19,27
+42,The Alchemist - Edition 3,Paulo Coelho,Technology,880.51,72
+43,Ikigai - Edition 3,Hector Garcia,Biography,851.09,40
+44,Rich Dad Poor Dad - Edition 3,Robert Kiyosaki,Science,320.1,63
+45,Deep Work - Edition 3,Cal Newport,Self-Help,466.51,58
+46,The Psychology of Money - Edition 3,Morgan Housel,Fiction,264.3,17
+47,Wings of Fire - Edition 3,A. P. J. Abdul Kalam,Finance,347.3,71
+48,Sapiens - Edition 3,Yuval Noah Harari,Technology,581.18,74
+49,Think and Grow Rich - Edition 3,Napoleon Hill,Biography,492.75,74
+50,The Power of Habit - Edition 3,Charles Duhigg,Science,469.52,28
+51,Clean Code - Edition 3,Robert C. Martin,Self-Help,947.86,17
+52,Python Crash Course - Edition 3,Eric Matthes,Fiction,557.62,11
+53,The Pragmatic Programmer - Edition 3,Andrew Hunt,Finance,754.63,14
+54,The Hobbit - Edition 3,J. R. R. Tolkien,Technology,272.27,20
+55,1984 - Edition 3,George Orwell,Biography,783.66,54
+56,Pride and Prejudice - Edition 3,Jane Austen,Science,627.13,49
+57,Dune - Edition 3,Frank Herbert,Self-Help,455.3,59
+58,The Silent Patient - Edition 3,Alex Michaelides,Fiction,573.29,70
+59,The Book Thief - Edition 3,Markus Zusak,Finance,838.62,1
+60,Educated - Edition 3,Tara Westover,Technology,694.23,14
+61,Atomic Habits - Edition 4,James Clear,Technology,695.37,68
+62,The Alchemist - Edition 4,Paulo Coelho,Biography,750.7,43
+63,Ikigai - Edition 4,Hector Garcia,Science,239.24,55
+64,Rich Dad Poor Dad - Edition 4,Robert Kiyosaki,Self-Help,276.53,0
+65,Deep Work - Edition 4,Cal Newport,Fiction,913.05,33
+66,The Psychology of Money - Edition 4,Morgan Housel,Finance,927.51,22
+67,Wings of Fire - Edition 4,A. P. J. Abdul Kalam,Technology,556.15,13
+68,Sapiens - Edition 4,Yuval Noah Harari,Biography,846.41,38
+69,Think and Grow Rich - Edition 4,Napoleon Hill,Science,823.34,64
+70,The Power of Habit - Edition 4,Charles Duhigg,Self-Help,637.18,19
+71,Clean Code - Edition 4,Robert C. Martin,Fiction,449.13,20
+72,Python Crash Course - Edition 4,Eric Matthes,Finance,581.5,67
+73,The Pragmatic Programmer - Edition 4,Andrew Hunt,Technology,884.79,76
+74,The Hobbit - Edition 4,J. R. R. Tolkien,Biography,409.32,2
+75,1984 - Edition 4,George Orwell,Science,239.49,46
+76,Pride and Prejudice - Edition 4,Jane Austen,Self-Help,852.98,39
+77,Dune - Edition 4,Frank Herbert,Fiction,341.56,30
+78,The Silent Patient - Edition 4,Alex Michaelides,Finance,852.41,10
+79,The Book Thief - Edition 4,Markus Zusak,Technology,218.52,62
+80,Educated - Edition 4,Tara Westover,Biography,802.82,68
+81,Atomic Habits - Edition 5,James Clear,Biography,762.67,16
+82,The Alchemist - Edition 5,Paulo Coelho,Science,677.8,70
+83,Ikigai - Edition 5,Hector Garcia,Self-Help,282.1,67
+84,Rich Dad Poor Dad - Edition 5,Robert Kiyosaki,Fiction,847.95,54
+85,Deep Work - Edition 5,Cal Newport,Finance,921.49,69
+86,The Psychology of Money - Edition 5,Morgan Housel,Technology,754.21,25
+87,Wings of Fire - Edition 5,A. P. J. Abdul Kalam,Biography,720.36,51
+88,Sapiens - Edition 5,Yuval Noah Harari,Science,946.12,47
+89,Think and Grow Rich - Edition 5,Napoleon Hill,Self-Help,500.48,66
+90,The Power of Habit - Edition 5,Charles Duhigg,Fiction,511.19,31
+91,Clean Code - Edition 5,Robert C. Martin,Finance,329.76,43
+92,Python Crash Course - Edition 5,Eric Matthes,Technology,166.83,70
+93,The Pragmatic Programmer - Edition 5,Andrew Hunt,Biography,334.09,28
+94,The Hobbit - Edition 5,J. R. R. Tolkien,Science,155.75,80
+95,1984 - Edition 5,George Orwell,Self-Help,197.1,8
+96,Pride and Prejudice - Edition 5,Jane Austen,Fiction,874.34,42
+97,Dune - Edition 5,Frank Herbert,Finance,206.69,30
+98,The Silent Patient - Edition 5,Alex Michaelides,Technology,372.78,62
+99,The Book Thief - Edition 5,Markus Zusak,Biography,321.39,16
+100,Educated - Edition 5,Tara Westover,Science,728.68,73
+101,Atomic Habits - Edition 6,James Clear,Science,610.97,31
+102,The Alchemist - Edition 6,Paulo Coelho,Self-Help,777.7,52
+103,Ikigai - Edition 6,Hector Garcia,Fiction,302.33,12
+104,Rich Dad Poor Dad - Edition 6,Robert Kiyosaki,Finance,677.19,45
+105,Deep Work - Edition 6,Cal Newport,Technology,488.86,59
+106,The Psychology of Money - Edition 6,Morgan Housel,Biography,841.07,6
+107,Wings of Fire - Edition 6,A. P. J. Abdul Kalam,Science,688.69,12
+108,Sapiens - Edition 6,Yuval Noah Harari,Self-Help,198.49,43
+109,Think and Grow Rich - Edition 6,Napoleon Hill,Fiction,790.47,13
+110,The Power of Habit - Edition 6,Charles Duhigg,Finance,348.93,24
+111,Clean Code - Edition 6,Robert C. Martin,Technology,579.03,17
+112,Python Crash Course - Edition 6,Eric Matthes,Biography,487.51,35
+113,The Pragmatic Programmer - Edition 6,Andrew Hunt,Science,520.1,4
+114,The Hobbit - Edition 6,J. R. R. Tolkien,Self-Help,504.5,70
+115,1984 - Edition 6,George Orwell,Fiction,228.33,69
+116,Pride and Prejudice - Edition 6,Jane Austen,Finance,818.82,11
+117,Dune - Edition 6,Frank Herbert,Technology,891.09,30
+118,The Silent Patient - Edition 6,Alex Michaelides,Biography,283.05,62
+119,The Book Thief - Edition 6,Markus Zusak,Science,535.09,51
+120,Educated - Edition 6,Tara Westover,Self-Help,871.95,21

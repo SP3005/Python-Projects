@@ -1,0 +1,151 @@
+Date,Title,Author,Genre,Quantity Sold,Price,Total Revenue
+2026-01-24,Atomic Habits,James Clear,Self-Help,1.0,938.25,938.25
+2025-09-29,The Alchemist,Paulo Coelho,Fiction,8.0,378.2,3025.6
+2026-07-24,Ikigai,Hector Garcia,Finance,8.0,273.84,2190.72
+2025-10-31,Rich Dad Poor Dad,Robert Kiyosaki,Technology,4.0,924.97,3699.88
+2026-08-17,Deep Work,Cal Newport,Biography,1.0,748.38,748.38
+2025-02-28,The Psychology of Money,Morgan Housel,Science,1.0,617.34,617.34
+2026-05-30,Wings of Fire,A. P. J. Abdul Kalam,Self-Help,3.0,195.5,586.5
+2026-06-05,Sapiens,Yuval Noah Harari,Fiction,2.0,831.07,1662.14
+2025-03-12,Think and Grow Rich,Napoleon Hill,Finance,2.0,690.17,1380.34
+2025-08-29,The Power of Habit,Charles Duhigg,Technology,7.0,245.91,1721.37
+2026-08-07,Clean Code,Robert C. Martin,Biography,4.0,613.14,2452.56
+2025-02-10,Python Crash Course,Eric Matthes,Science,2.0,485.38,970.76
+2026-08-21,The Pragmatic Programmer,Andrew Hunt,Self-Help,6.0,897.77,5386.62
+2025-07-29,The Hobbit,J. R. R. Tolkien,Unknown,6.0,340.95,2045.7
+2026-02-10,1984,George Orwell,Finance,3.0,687.35,2062.05
+2025-11-04,Pride and Prejudice,Jane Austen,Technology,8.0,402.94,3223.52
+2025-03-16,Dune,Frank Herbert,Biography,1.0,516.63,516.63
+2026-07-31,The Silent Patient,Alex Michaelides,Science,2.0,208.61,417.22
+2025-08-07,The Book Thief,Markus Zusak,Self-Help,5.0,255.97,1279.85
+2025-12-24,Educated,Tara Westover,Fiction,2.0,853.42,1706.84
+2026-01-14,Atomic Habits,James Clear,Fiction,5.0,276.2,1381.0
+2026-07-11,The Alchemist,Paulo Coelho,Finance,5.0,639.34,3196.7
+2026-06-26,Ikigai,Hector Garcia,Technology,1.0,684.29,684.29
+2026-07-22,Rich Dad Poor Dad,Robert Kiyosaki,Biography,5.0,895.4,4477.0
+2025-04-17,Deep Work,Cal Newport,Science,3.0,361.57,1084.71
+2025-04-20,The Psychology of Money,Morgan Housel,Self-Help,3.0,367.88,1103.64
+2026-09-12,Wings of Fire,A. P. J. Abdul Kalam,Fiction,4.0,724.09,2896.36
+2025-07-28,Sapiens,Yuval Noah Harari,Finance,5.0,554.33,2771.65
+2026-03-10,The Power of Habit,Charles Duhigg,Biography,5.0,185.27,926.35
+2025-12-08,Clean Code,Robert C. Martin,Science,3.0,659.69,1979.07
+2025-09-26,Python Crash Course,Eric Matthes,Self-Help,3.0,742.98,2228.94
+2026-07-19,The Pragmatic Programmer,Andrew Hunt,Fiction,7.0,598.73,4191.11
+2025-04-25,The Hobbit,J. R. R. Tolkien,Finance,2.0,906.04,1812.08
+2025-06-02,1984,George Orwell,Technology,1.0,817.68,817.68
+2026-08-20,Pride and Prejudice,Jane Austen,Biography,3.0,493.83,1481.49
+2025-02-12,Dune,Frank Herbert,Science,5.0,441.72,2208.6
+2025-02-10,The Silent Patient,Alex Michaelides,Self-Help,6.0,318.06,1908.36
+2025-09-13,The Book Thief,Markus Zusak,Fiction,2.0,432.94,865.88
+2026-07-28,Educated,Tara Westover,Finance,7.0,929.07,6503.49
+2025-06-08,Atomic Habits,James Clear,Finance,4.0,841.68,3366.72
+2025-07-01,The Alchemist,Paulo Coelho,Technology,7.0,169.83,1188.81
+2025-12-07,Ikigai,Hector Garcia,Biography,7.0,791.79,5542.53
+2025-09-12,Rich Dad Poor Dad,Robert Kiyosaki,Science,5.0,277.36,1386.8
+2025-04-21,Deep Work,Cal Newport,Self-Help,7.0,847.73,5934.11
+2026-04-27,The Psychology of Money,Morgan Housel,Fiction,4.0,309.66,1238.64
+2026-04-17,Wings of Fire,A. P. J. Abdul Kalam,Finance,6.0,394.15,2364.9
+2025-08-22,Sapiens,Yuval Noah Harari,Technology,4.0,168.93,675.72
+2025-07-17,Think and Grow Rich,Napoleon Hill,Biography,7.0,412.61,2888.27
+2025-03-13,The Power of Habit,Charles Duhigg,Science,5.0,430.92,2154.6
+2026-06-06,Clean Code,Robert C. Martin,Self-Help,7.0,693.61,4855.27
+2026-07-04,Python Crash Course,Eric Matthes,Fiction,6.0,901.39,5408.34
+2025-04-29,The Pragmatic Programmer,Andrew Hunt,Finance,5.0,292.85,1464.25
+2025-09-29,The Hobbit,J. R. R. Tolkien,Technology,1.0,236.72,236.72
+2026-03-21,1984,George Orwell,Biography,6.0,732.84,4397.04
+2025-11-18,Pride and Prejudice,Jane Austen,Science,7.0,634.97,4444.79
+2026-06-08,Dune,Frank Herbert,Self-Help,2.0,458.16,916.32
+2026-08-14,The Silent Patient,Alex Michaelides,Fiction,4.0,353.78,1415.12
+2026-03-23,The Book Thief,Markus Zusak,Finance,1.0,565.94,565.94
+2026-07-06,Educated,Tara Westover,Technology,4.0,441.38,1765.52
+2025-03-13,Atomic Habits,James Clear,Technology,6.0,648.52,3891.12
+2026-02-23,Ikigai,Hector Garcia,Science,6.0,471.92,2831.52
+2025-10-30,Rich Dad Poor Dad,Robert Kiyosaki,Self-Help,3.0,303.47,910.41
+2026-01-24,Deep Work,Cal Newport,Fiction,3.0,642.41,1927.23
+2025-11-05,The Psychology of Money,Morgan Housel,Finance,7.0,588.35,4118.45
+2025-01-01,Wings of Fire,A. P. J. Abdul Kalam,Technology,5.0,379.53,1897.65
+2026-03-17,Sapiens,Yuval Noah Harari,Biography,6.0,521.99,3131.94
+2026-03-29,Think and Grow Rich,Napoleon Hill,Science,4.0,558.94,2235.76
+2025-06-23,The Power of Habit,Charles Duhigg,Self-Help,2.0,377.03,754.06
+2026-10-11,Clean Code,Robert C. Martin,Fiction,6.0,224.71,1348.26
+2025-08-29,Python Crash Course,Eric Matthes,Finance,5.0,329.71,1648.55
+2025-07-23,The Pragmatic Programmer,Andrew Hunt,Technology,3.0,169.54,508.62
+2025-09-08,The Hobbit,J. R. R. Tolkien,Biography,8.0,639.02,5112.16
+2025-03-16,1984,George Orwell,Science,8.0,481.55,3852.4
+2026-10-07,Pride and Prejudice,Jane Austen,Self-Help,4.0,724.68,2898.72
+2026-01-29,Dune,Frank Herbert,Fiction,8.0,469.72,3757.76
+2025-06-01,The Silent Patient,Alex Michaelides,Finance,1.0,864.13,864.13
+2025-04-20,The Book Thief,Markus Zusak,Technology,7.0,325.07,2275.49
+2026-06-15,Educated,Tara Westover,Biography,8.0,190.17,1521.36
+2025-09-13,Atomic Habits,James Clear,Biography,2.0,515.17,1030.34
+2026-04-21,The Alchemist,Paulo Coelho,Science,6.0,910.03,5460.18
+2026-03-30,Ikigai,Hector Garcia,Self-Help,7.0,814.46,5701.22
+2026-07-16,Rich Dad Poor Dad,Robert Kiyosaki,Fiction,8.0,867.77,6942.16
+2026-05-02,Deep Work,Cal Newport,Finance,8.0,357.35,2858.8
+2025-09-11,The Psychology of Money,Morgan Housel,Technology,5.0,762.65,3813.25
+2026-06-18,Wings of Fire,A. P. J. Abdul Kalam,Biography,8.0,651.4,5211.2
+2025-10-09,Sapiens,Yuval Noah Harari,Science,8.0,211.99,1695.92
+2025-10-20,Think and Grow Rich,Napoleon Hill,Self-Help,4.0,367.37,1469.48
+2025-11-24,The Power of Habit,Charles Duhigg,Fiction,2.0,260.7,521.4
+2025-08-25,Clean Code,Robert C. Martin,Finance,7.0,705.16,4936.12
+2025-08-08,Python Crash Course,Eric Matthes,Technology,2.0,481.89,963.78
+2025-12-05,The Pragmatic Programmer,Andrew Hunt,Biography,8.0,482.62,3860.96
+2025-07-31,The Hobbit,J. R. R. Tolkien,Science,7.0,461.58,3231.06
+2026-08-22,1984,George Orwell,Self-Help,1.0,835.39,835.39
+2026-08-13,Pride and Prejudice,Jane Austen,Fiction,7.0,531.58,3721.06
+2025-12-27,Dune,Frank Herbert,Finance,5.0,752.78,3763.9
+2026-03-06,The Silent Patient,Alex Michaelides,Technology,4.0,540.58,2162.32
+2025-10-07,The Book Thief,Markus Zusak,Biography,7.0,538.51,3769.57
+2026-02-03,Educated,Tara Westover,Science,6.0,685.1,4110.6
+2026-02-19,Atomic Habits,James Clear,Science,3.0,822.4,2467.2
+2025-05-11,The Alchemist,Paulo Coelho,Self-Help,1.0,875.54,875.54
+2026-08-30,Ikigai,Hector Garcia,Fiction,1.0,217.16,217.16
+2026-03-15,Rich Dad Poor Dad,Robert Kiyosaki,Finance,3.0,843.48,2530.44
+2025-07-06,Deep Work,Cal Newport,Technology,1.0,358.13,358.13
+2025-12-02,The Psychology of Money,Morgan Housel,Biography,4.0,513.76,2055.04
+2025-12-12,Wings of Fire,A. P. J. Abdul Kalam,Science,7.0,372.61,2608.27
+2026-03-08,Sapiens,Yuval Noah Harari,Self-Help,5.0,817.93,4089.65
+2026-04-27,Think and Grow Rich,Napoleon Hill,Fiction,1.0,749.22,749.22
+2025-02-23,The Power of Habit,Charles Duhigg,Finance,6.0,329.38,1976.28
+2025-03-12,Clean Code,Robert C. Martin,Technology,1.0,753.39,753.39
+2025-09-11,Python Crash Course,Eric Matthes,Biography,4.0,821.38,3285.52
+2026-09-29,The Pragmatic Programmer,Andrew Hunt,Science,3.0,340.84,1022.52
+2026-04-30,The Hobbit,J. R. R. Tolkien,Self-Help,2.0,601.18,1202.36
+2025-08-12,1984,George Orwell,Fiction,8.0,709.57,5676.56
+2026-01-13,Pride and Prejudice,Jane Austen,Finance,3.0,634.71,1904.13
+2025-04-28,Dune,Frank Herbert,Technology,3.0,921.78,2765.34
+2025-04-21,The Silent Patient,Alex Michaelides,Biography,1.0,893.11,893.11
+2026-08-13,The Book Thief,Markus Zusak,Science,7.0,467.32,3271.24
+2025-07-23,Educated,Tara Westover,Self-Help,2.0,623.68,1247.36
+2026-10-05,Atomic Habits,James Clear,Self-Help,4.0,231.52,926.08
+2025-11-05,The Alchemist,Paulo Coelho,Fiction,2.0,786.98,1573.96
+2026-08-03,Ikigai,Hector Garcia,Finance,1.0,427.76,427.76
+2026-03-15,Rich Dad Poor Dad,Robert Kiyosaki,Technology,6.0,205.17,1231.02
+2025-12-16,Deep Work,Cal Newport,Biography,1.0,829.66,829.66
+2026-05-17,The Psychology of Money,Morgan Housel,Science,2.0,496.82,993.64
+2026-01-06,Wings of Fire,A. P. J. Abdul Kalam,Self-Help,8.0,715.85,5726.8
+2026-03-22,Sapiens,Yuval Noah Harari,Fiction,3.0,737.04,2211.12
+2025-10-04,Think and Grow Rich,Napoleon Hill,Finance,8.0,521.9,4175.2
+2026-08-30,The Power of Habit,Charles Duhigg,Technology,5.0,407.84,2039.2
+2025-09-09,Clean Code,Robert C. Martin,Biography,2.0,373.14,746.28
+2026-04-07,Python Crash Course,Eric Matthes,Science,4.0,750.38,3001.52
+2026-08-07,The Pragmatic Programmer,Andrew Hunt,Self-Help,7.0,419.12,2933.84
+2026-05-22,The Hobbit,J. R. R. Tolkien,Fiction,6.0,295.47,1772.82
+2025-08-06,1984,George Orwell,Finance,6.0,788.27,4729.62
+2025-12-15,Pride and Prejudice,Jane Austen,Technology,5.0,854.26,4271.3
+2025-10-10,Dune,Frank Herbert,Biography,1.0,563.3,563.3
+2025-07-15,The Silent Patient,Alex Michaelides,Science,2.0,343.08,686.16
+2026-02-21,The Book Thief,Markus Zusak,Self-Help,8.0,594.14,4753.12
+2025-09-04,Educated,Tara Westover,Fiction,8.0,666.72,5333.76
+2026-05-18,Atomic Habits,James Clear,Fiction,8.0,784.35,6274.8
+2025-04-06,The Alchemist,Paulo Coelho,Finance,5.0,327.28,1636.4
+2025-09-07,Ikigai,Hector Garcia,Technology,5.0,681.17,3405.85
+2026-01-13,Rich Dad Poor Dad,Robert Kiyosaki,Biography,8.0,592.78,4742.24
+2025-12-19,Deep Work,Cal Newport,Science,7.0,947.31,6631.17
+2026-07-18,The Psychology of Money,Morgan Housel,Self-Help,6.0,431.45,2588.7
+2026-04-10,Wings of Fire,A. P. J. Abdul Kalam,Fiction,5.0,395.3,1976.5
+2025-08-25,Sapiens,Yuval Noah Harari,Finance,2.0,727.03,1454.06
+2025-11-20,Think and Grow Rich,Napoleon Hill,Technology,2.0,744.3,1488.6
+2025-07-09,The Power of Habit,Charles Duhigg,Biography,4.0,323.11,1292.44
+2026-10-23,The Pragmatic Programmer - Edition 6,Andrew Hunt,Science,5.0,520.1,2600.5
+2026-10-23,Atomic Habits,James Clear,Self-Help,9.0,661.54,5953.86
